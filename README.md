@@ -1,7 +1,7 @@
 # datacracy-atom--Chu-Viet-Hong-
 Github dùng để làm gì?
-GitHub là sự kết hợp giữa 2 từ, Git và Hub, giải thích:
-  Git là hệ thống quản lý dự án và phiên bản code
+GitHub là sự kết hợp giữa 2 từ, Git và Hub, giải thích:\n
+ Git là hệ thống quản lý dự án và phiên bản code
   Hub là một mạng xã hội cho lập trình viên. GitHub được sử dụng chủ yếu cho dự án có nhiều người cùng hợp tác và cần giám sát toàn bộ thay đổi của dự án, cũng như để ngõ khả     năng khôi phục code khi cần thiết.
   GitHub cung cấp các tính năng social networking như feeds, followers, và network graph để các developer học hỏi kinh nghiệm của nhau thông qua lịch sử commit.
   GitHub được sử dụng chủ yếu cho dự án có nhiều người cùng hợp tác và cần giám sát toàn bộ thay đổi của dự án. Bên cạnh đó, GitHub còn có khả năng khôi phục code khi cần         thiết. Khi sử dụng GitHub, ngoài các công việc chính như tạo Branch, tạo Pull Request và Fork một Repository, bạn có thể theo dõi, tương tác với người khác như một mạng xã     hội thông thường.
